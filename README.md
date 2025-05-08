@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak Mandavi</h1>
 <h3 align="center">A passionate Cyber Security Student</h3>
 
+<img align="right" alt="Coding" width="400" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18406650/hackers_white.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"/>
 <p align="center">
-  <img src="https://www.rokasecurity.com/wp-content/uploads/2022/01/pentesting-background.jpg" alt="Pentesting Background" width="100%" />
+  <img src="[https://www.rokasecurity.com/wp-content/uploads/2022/01/pentesting-background.jpg" alt="Pentesting Background" width="100%](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18406650/hackers_white.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200)" />
 </p>
 
 <p align="left">

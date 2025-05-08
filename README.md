@@ -1,20 +1,9 @@
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSVfjpHHpdhQedd1zIrOsSv3UZJVmS_DUzg&s)
+
 <h1 align="center">Hi 👋, I'm Deepak Mandavi</h1>
 <h3 align="center">A passionate Cyber Security Student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18406650/hackers_white.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"/>
-<p align="center">
-  <img src="[https://www.rokasecurity.com/wp-content/uploads/2022/01/pentesting-background.jpg" alt="Pentesting Background" width="100%](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18406650/hackers_white.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200)" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=08deepak2702&label=Profile%20views&color=0e75b6&style=flat" alt="08deepak2702" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=08deepak2702" alt="08deepak2702" />
-  </a>
-</p>
+<img align="center" alt="Coding" width="700" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18406650/hackers_white.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"/>
 
 <ul>
   <li>🔭 I’m currently working on <strong>VAPT project</strong></li>

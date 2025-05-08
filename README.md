@@ -1,59 +1,35 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSVfjpHHpdhQedd1zIrOsSv3UZJVmS_DUzg&s)
+![A Penetration Tester Profile](https://as1.ftcdn.net/v2/jpg/02/07/70/50/1000_F_207705057_3z5uQuQe7F2HK60uz2wSdmrljyYQTMDN.jpg)
 
-<h1 align="center">Hi 👋, I'm Deepak Mandavi</h1>
-<h3 align="center">A passionate Cyber Security Student</h3>
+# Hi 👋, I'm Deepak Mandavi
+### A passionate Cyber Security Student
 
-<img align="center" alt="Coding" width="700" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18406650/hackers_white.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"/>
+![Profile Views](https://komarev.com/ghpvc/?username=08deepak2702&label=Profile%20views&color=0e75b6&style=flat)
 
-<ul>
-  <li>🔭 I’m currently working on <strong>VAPT project</strong></li>
-  <li>🌱 I’m currently learning <strong>VAPT on networks, Web, Android (Controlled Environment)</strong></li>
-  <li>🤝 I’m looking for help <strong>to work on skilling-up VAPT, Bug-ounty</strong></li>
-  <li>📫 How to reach me: <strong>deepak27mandavi@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="#">I've been Doing an Internship of Cyber Security (VAPT)</a></li>
-</ul>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=08deepak2702)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepak-mandavi-417a1933a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+- 🔭 I’m currently working on **VAPT project**
+- 🌱 I’m currently learning **VAPT on networks, Web, Android (Controlled Environment)**
+- 🤝 I’m looking for help **to work on skilling-up VAPT, Bug-ounty**
+- 📫 How to reach me: [deepak27mandavi@gmail.com](mailto:deepak27mandavi@gmail.com)
+- 📄 Know about my experiences: [Internship in Cyber Security (VAPT)](https://your-link.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-</p>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-mandavi-417a1933a)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=08deepak2702&show_icons=true&locale=en&layout=compact" alt="08deepak2702" />
-</p>
+### Languages and Tools:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=08deepak2702&show_icons=true&locale=en" alt="08deepak2702" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=08deepak2702&show_icons=true&locale=en&layout=compact)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=08deepak2702&" alt="08deepak2702" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=08deepak2702&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=08deepak2702)
 
 <p align="right">
-  <img src="https://giphy.com/gifs/intruder-io-vulnerability-pentesting-pentest-56wdZ4gYcwRvU7rJiY" alt="Ethical Hacker GIF" width="200" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-102.gif" />
 </p>

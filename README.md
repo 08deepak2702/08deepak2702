@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **VAPT project**
 - 🌱 I’m currently learning **VAPT on networks, Web, Android (Controlled Environment)**
-- 🤝 I’m looking for help **to work on skilling-up VAPT, Bug-ounty**
+- 🤝 I’m looking for help **to work on skilling-up VAPT, Bug-bounty**
 - 📫 How to reach me: [deepak27mandavi@gmail.com](mailto:deepak27mandavi@gmail.com)
 - 📄 Know about my experiences: [Internship in Cyber Security (VAPT)](https://your-link.com)
 
